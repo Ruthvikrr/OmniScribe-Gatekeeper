@@ -1,0 +1,10 @@
+.env
+.venv/
+.uv-cache/
+.uv-python/
+__pycache__/
+database/*.db
+outputs/
+*.log
+*.pid
+*.pyc
